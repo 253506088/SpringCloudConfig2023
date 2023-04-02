@@ -1,2 +1,2 @@
 config:
-  info: "configClint服务在spring cloud config里dev环境配置，version=1"
+  info: "configClint服务在spring cloud config里dev环境配置，version=2"
