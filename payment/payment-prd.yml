@@ -1,0 +1,2 @@
+config:
+  info: "payment服务在spring cloud config里prd环境配置，version=1"

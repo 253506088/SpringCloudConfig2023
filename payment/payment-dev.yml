@@ -1,0 +1,2 @@
+config:
+  info: "payment服务在spring cloud config里dev环境配置，version=1"
